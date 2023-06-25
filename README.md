@@ -3,12 +3,9 @@
 
 # remote-test-1
 
-
-Test for lisson!!!
-
-test ubunty
-# remote-test-1
-make MERGE
-
+<<<<<<< HEAD
 
 24-issue Вот мои изменения!!!!
+
+# new branch 24-issue
+>>>>>>> org/24-issue
